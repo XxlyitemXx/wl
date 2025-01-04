@@ -24,7 +24,7 @@
        }
     ],
     "Announcement": {
-        "expiretime": <number>,
+        "expiretime": 30,
         "text":"...",
         "targets":"..."
     },
