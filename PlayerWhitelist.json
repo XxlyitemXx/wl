@@ -6,7 +6,7 @@
           "attackable": true,
           "tags": [
               {
-                  "text":"Katware Owner alt",
+                  "text":"Katware_Owner",
                   "color": [255, 0, 0]
               }
           ]
@@ -17,7 +17,7 @@
           "attackable": true,
           "tags": [
              {
-                 "text":"Katware Owner",
+                 "text":"Katware_Owner",
                  "color": [0, 255, 0]
              }
           ]
