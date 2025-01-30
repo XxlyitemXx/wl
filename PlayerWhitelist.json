@@ -49,9 +49,9 @@
 
     "Announcement": {
         "expiretime": 30,
-        "text":"...",
+        "text":"lol lol",
         "targets":"..."
     },
-    "KillVape":false,
+    "Killkatware":false,
     "BlacklistedUsers":{}
  }
